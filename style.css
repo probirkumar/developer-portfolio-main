@@ -155,6 +155,14 @@ body {
     font-weight: 700;
 }
 
+.fa-solid,
+.fas {
+    font-weight: 700;
+    margin-right: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+
 /* body area end */
 
 .para-icon-wrapper {
